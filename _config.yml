@@ -15,16 +15,11 @@ url: "https://syedsaifularefin.github.io"
 
 # Navigation Links
 nav_links:
-  - title: "Home"
-    url: "/"
   - title: "Projects"
     url: "/projects/"
-  - title: "Contact"
-    url: "/contact/"
+
 
 # Social Links
 social_links:
   github: "https://github.com/syedsaifularefin"
   linkedin: "https://www.linkedin.com/in/syed-saiful-arefin/"
-
-
