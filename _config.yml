@@ -9,6 +9,9 @@ logo: /asserts/img/headshot_circle.png
 # Theme settings
 theme: jekyll-theme-minimal
 
+# URL settings
+baseurl: "ai_portfolio" # Leave this empty for the root domain
+url: "https://syedsaifularefin.github.io"
 
 # Navigation Links
 nav_links:
