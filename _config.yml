@@ -1,0 +1,40 @@
+# _config.yml
+title: "SYED SAIFUL AREFIN"
+description: "Showcasing AI Projects and Skills"
+author: "Syed Saiful Arefin"
+email: "saiful.arefin786@gmail.com"
+github_username: "syedsaifularefin"
+
+# Theme settings
+theme: jekyll-theme-minimal
+
+# URL settings
+baseurl: "" # Leave this empty for the root domain
+url: "https://syedsaifularefin.github.io"
+
+# Navigation Links
+nav_links:
+  - title: "Home"
+    url: "/"
+  - title: "Projects"
+    url: "/projects/"
+  - title: "Contact"
+    url: "/contact/"
+
+# Social Links
+social_links:
+  github: "https://github.com/syedsaifularefin"
+  linkedin: "https://www.linkedin.com/in/syed-saiful-arefin/"
+
+
+# Markdown options
+markdown: kramdown
+highlighter: rouge
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+# Permalinks
+permalink: pretty
