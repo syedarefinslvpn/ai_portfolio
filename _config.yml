@@ -1,9 +1,9 @@
 # _config.yml
 title: "SYED SAIFUL AREFIN"
-description: "Showcasing AI Projects and Skills"
-author: "Syed Saiful Arefin"
-email: "saiful.arefin786@gmail.com"
-github_username: "syedsaifularefin"
+#description: "Showcasing AI Projects and Skills"
+#author: "Syed Saiful Arefin"
+#email: "saiful.arefin786@gmail.com"
+#github_username: "syedsaifularefin"
 
 # Theme settings
 theme: jekyll-theme-minimal
